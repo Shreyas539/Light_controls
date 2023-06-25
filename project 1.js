@@ -3,11 +3,11 @@
 
 function turnOn()
 {
-    document.getElementById('image').src = 'pic_bulbon.gif';
+    document.getElementById('image').src = 'assets/pic_bulbon.gif';
     return 1;
 }
 
 function turnOFF()
 {
-    document.getElementById('image').src = 'pic_bulboff.gif' ;
+    document.getElementById('image').src = 'assets/pic_bulboff.gif' ;
 }
